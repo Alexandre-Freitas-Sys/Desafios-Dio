@@ -10,6 +10,14 @@ O objetivo é implementar três operações essenciais: depósito, saque e extra
 
 * Foi utilizado variáveis para funcionamento, técnica de string múltiplas e processamento com condições. 
 
+# Pré-requisitos
+
+Para correta visualização e funcionamento:
+* Python3
+* VSCode ou PyCharm 
+
+___
+
 Criado em 12/06/2024 
 
 [@Alexadre Freitas](https://www.instagram.com/alexandrefreitasbrasil/)
