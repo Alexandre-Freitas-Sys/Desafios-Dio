@@ -24,3 +24,5 @@ Conteúdo atualizado e completamente inédito na plataforma, estude e pratique f
 O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações. Durante o desafio, você terá a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias.
 
 💰 [Sistema Bancário](https://github.com/Alexandre-Freitas-Sys/Desafios-Dio/tree/main/Sistema-Bancario)
+
+💰 [Sistema Bancário Otimizado V1.1](https://github.com/Alexandre-Freitas-Sys/Desafios-Dio/tree/main/Sistema-Bancario-Otimizado)
