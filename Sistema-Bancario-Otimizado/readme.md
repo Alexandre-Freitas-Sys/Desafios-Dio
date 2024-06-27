@@ -25,6 +25,6 @@ Para correta visualização e funcionamento:
 ___
 
 
-Criado em 12/06/2024 
+Criado em 27/06/2024 
 
 [@Alexadre Freitas](https://www.instagram.com/alexandrefreitasbrasil/)
